@@ -3,4 +3,5 @@
 bluetooth.device.default_name=Redmi Note 12 Pro Speed
 ro.product.odm.model=22101320C
 ro.product.odm.name=redwood
+vendor.usb.product_string=Redmi Note 12 Pro Speed
 # end sku build properties
