@@ -34,6 +34,7 @@ PRODUCT_PACKAGES += \
 
 PRODUCT_PACKAGES += \
     FrameworkOverlayRedwood \
+    OpenDeltaOverlayRedwood \
     SettingsOverlayRedwood \
     SettingsProviderOverlayRedwoodCN \
     SettingsProviderOverlayRedwoodGL \
