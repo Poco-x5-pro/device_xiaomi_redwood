@@ -1,7 +1,6 @@
 #
-# Copyright (C) 2023 The LineageOS Project
-# Copyright (C) 2025 PixelOS
-#
+# SPDX-FileCopyrightText: The LineageOS Project
+# SPDX-FileCopyrightText: PixelOS
 # SPDX-License-Identifier: Apache-2.0
 #
 
