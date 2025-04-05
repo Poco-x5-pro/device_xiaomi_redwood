@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: Yet Another AOSP Project
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="kernel_name" translatable="false">Tashfin Shakeer Rhythm</string>
+    <string name="kernel_telegram" translatable="false">https://t.me/Tashar02</string>
+    <string name="maintainer_name" translatable="false">Tashfin Shakeer Rhythm</string>
+    <string name="maintainer_telegram" translatable="false">https://t.me/Tashar02</string>
+</resources>
