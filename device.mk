@@ -31,14 +31,16 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/rootdir/etc/init.redwood.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/init.redwood.rc
 
 # Overlays
-DEVICE_PACKAGE_OVERLAYS += \
-    $(LOCAL_PATH)/overlay
-
-# Overlays-RRO
 PRODUCT_PACKAGES += \
+    ApertureOverlayRedwood
+
+PRODUCT_PACKAGES += \
+    FrameworkOverlayRedwood \
+    SettingsOverlayRedwood \
     SettingsProviderOverlayRedwoodCN \
     SettingsProviderOverlayRedwoodGL \
     SettingsProviderOverlayRedwoodIN \
+    SystemUIOverlayRedwood \
     WifiOverlayRedwoodCN \
     WifiOverlayRedwoodGL \
     WifiOverlayRedwoodIN

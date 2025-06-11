@@ -4,6 +4,6 @@
 //
 
 runtime_resource_overlay {
-    name: "SettingsProviderOverlayRedwoodCN",
+    name: "FrameworkOverlayRedwood",
     device_specific: true,
 }

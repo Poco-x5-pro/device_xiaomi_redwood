@@ -4,6 +4,6 @@
 //
 
 runtime_resource_overlay {
-    name: "SettingsProviderOverlayRedwoodCN",
-    device_specific: true,
+    name: "ApertureOverlayRedwood",
+    product_specific: true,
 }
