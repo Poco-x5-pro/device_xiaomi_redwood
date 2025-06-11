@@ -36,12 +36,12 @@ DEVICE_PACKAGE_OVERLAYS += \
 
 # Overlays-RRO
 PRODUCT_PACKAGES += \
-    redwoodCNSettingsProviderOverlay \
-    redwoodCNWifiOverlay \
-    redwoodGLSettingsProviderOverlay \
-    redwoodGLWifiOverlay \
-    redwoodINSettingsProviderOverlay \
-    redwoodINWifiOverlay
+    SettingsProviderOverlayRedwoodCN \
+    SettingsProviderOverlayRedwoodGL \
+    SettingsProviderOverlayRedwoodIN \
+    WifiOverlayRedwoodCN \
+    WifiOverlayRedwoodGL \
+    WifiOverlayRedwoodIN
 
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
