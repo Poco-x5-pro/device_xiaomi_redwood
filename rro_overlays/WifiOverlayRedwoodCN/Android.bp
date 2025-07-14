@@ -5,5 +5,5 @@
 
 runtime_resource_overlay {
     name: "WifiOverlayRedwoodCN",
-    vendor: true
+    device_specific: true,
 }
