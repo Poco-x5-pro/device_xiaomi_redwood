@@ -10,6 +10,9 @@ $(call inherit-product, device/xiaomi/redwood/device.mk)
 # Inherit some common YAAP stuff
 $(call inherit-product, vendor/yaap/config/common_full_phone.mk)
 
+# Gapps
+TARGET_BUILD_GAPPS := true
+
 PRODUCT_BRAND := POCO
 PRODUCT_DEVICE := redwood
 PRODUCT_MANUFACTURER := Xiaomi
