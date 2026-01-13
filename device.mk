@@ -17,6 +17,8 @@ PRODUCT_PACKAGES += \
     libutilscallstack.vendor
 
 # Display
+$(call soong_config_set,surfaceflinger,frame_rate_category_high,120)
+
 PRODUCT_VENDOR_PROPERTIES += \
     vendor.display.idle_time=0
 
