@@ -5,7 +5,7 @@
 -->
 <resources>
     <!-- the padding of the rounded corner -->
-    <dimen name="rounded_corner_content_padding">17dp</dimen>
+    <dimen name="rounded_corner_content_padding">19dp</dimen>
 
     <!-- Array of desired screen brightness in nits corresponding to the lux values
          in the config_autoBrightnessLevels array. As with config_screenBrightnessMinimumNits and
