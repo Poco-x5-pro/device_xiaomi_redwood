@@ -70,3 +70,5 @@ PRODUCT_SYSTEM_PROPERTIES += \
 
 # Call the proprietary setup
 $(call inherit-product, vendor/xiaomi/redwood/redwood-vendor.mk)
+# Dev Keys
+-include vendor/lineage-priv/keys/keys.mk
