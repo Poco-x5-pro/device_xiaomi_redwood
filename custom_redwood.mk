@@ -8,13 +8,13 @@
 $(call inherit-product, device/xiaomi/redwood/device.mk)
 
 # Inherit some common PixelOS stuff
-$(call inherit-product, vendor/aosp/config/common_full_phone.mk)
+$(call inherit-product, vendor/custom/config/common_full_phone.mk)
 
 PRODUCT_BRAND := POCO
 PRODUCT_DEVICE := redwood
 PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_MODEL := 22101320G
-PRODUCT_NAME := aosp_redwood
+PRODUCT_NAME := custom_redwood
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
