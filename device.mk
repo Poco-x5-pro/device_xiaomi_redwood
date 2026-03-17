@@ -32,7 +32,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     FrameworkOverlayRedwood \
     Launcher3OverlayRedwood \
-    OpenDeltaOverlayRedwood \
     SettingsOverlayRedwood \
     SettingsProviderOverlayRedwoodCN \
     SettingsProviderOverlayRedwoodGL \
