@@ -23,3 +23,6 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     BuildFingerprint=POCO/redwood_global/redwood:14/UKQ1.240624.001/OS2.0.17.0.UMSMIXM:user/release-keys \
     DeviceProduct=redwood \
     SystemName=redwood_global
+
+ASCP_MAINTAINER := Thereache
+ASCP_OFFICIAL := true
