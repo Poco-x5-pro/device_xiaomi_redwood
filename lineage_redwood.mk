@@ -22,3 +22,12 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     BuildFingerprint=POCO/redwood_global/redwood:14/UKQ1.240624.001/OS2.0.17.0.UMSMIXM:user/release-keys \
     DeviceProduct=redwood \
     SystemName=redwood_global
+
+# lunaris
+LUNARIS_BUILD_TYPE := OFFICIAL
+WITH_GMS := true
+TARGET_SUPPORTS_GOOGLE_RECORDER := true
+TARGET_INCLUDE_PHOTOS := true
+TARGET_BOOT_ANIMATION_RES := 1080
+TARGET_SUPPORTED_REFRESH_RATES := 60,120
+TARGET_OPTIMIZED_DEXOPT := true
